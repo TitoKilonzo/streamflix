@@ -1,0 +1,6 @@
+{
+  "name": "StreamFlix",
+  "description": "A premium, mobile-first video streaming platform with offline download simulation, custom profiles, full playback controls, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
